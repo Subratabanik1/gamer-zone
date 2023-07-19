@@ -118,6 +118,7 @@
 
 ul li {
     padding-top: 17px;
+    list-style: none;
 }
 
 .primary-btn {
